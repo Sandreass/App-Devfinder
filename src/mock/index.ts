@@ -9,6 +9,7 @@ export const defaultUser: GithubUser = {
   blog: "andreasst.com",
   location: "Reutlingen",
   bio: "Junior Frontend🚀",
+  twitter_username: "Andreas",
   public_repos: 15,
   followers: 6,
   following: 5,
