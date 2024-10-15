@@ -7,7 +7,7 @@ export const defaultUser: LocalGithubUser = {
   "company": "dci digital career institute",
   "blog": "andreasst.com",
  "location": "Reutlingen",
-  "bio": "Junior Frontend🚀",
+  "bio": "Junior Frontend Developer🚀",
   "twitter": "Andreas",
   "repos": 15,
   "followers": 6,

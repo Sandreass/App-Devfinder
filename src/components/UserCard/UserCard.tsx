@@ -15,9 +15,9 @@ export const UserCard = (props: UserCardProps) =>  {
       />
 
       <UserTitle
-        name={props.name}
-        login={props.login}
         created={props.created}
+        login={props.login}
+        name={props.name}
       />
       <p className= {`${styles.bio}${props.bio ? '': `${styles.empty}` }` } 
       >
