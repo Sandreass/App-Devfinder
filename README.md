@@ -13,6 +13,7 @@ The main goal of developing this project was to practice and deepen my knowledge
 - Show a list of repositories with details like name, description, and stars.
 - View the number of followers and following.
 - Responsive design for both mobile and desktop screens.
+- **Light and Dark Theme Support**: Switch between light and dark themes for a better user experience.
 
 ## Technologies Used
 
